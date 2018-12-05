@@ -14,6 +14,6 @@ description: Mark Hary's software
 
 ---
 
-#### <a name="codility"></a>[codility](http://github.com/markhary/codility/)
+#### <a name="codility"></a>[codility](https://github.com/markhary/codility/)
 
 My solutions to the lessons at [codility](https://app.codility.com)
