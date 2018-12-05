@@ -1,0 +1,19 @@
+---
+layout: page
+title: software
+description: Mark Hary's software
+---
+
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="https://github.com/markhary">github</a></li>
+        </ul>
+    </div>
+</div>
+
+---
+
+#### <a name="codility"></a>[codility](http://github.com/markhary/codility/)
+
+My solutions to the lessons at [codility](https://app.codility.com)
