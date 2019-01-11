@@ -11,3 +11,9 @@ permalink: /pages/software.html
 My solutions to the lessons at [codility](https://app.codility.com)
 
 ---
+
+#### <a name="leetcode"></a>[leetcode](https://github.com/markhary/leetcode/)
+
+My solutions to the problems at [leetcode](https://leetcode.com/problemset/all/)
+
+---
