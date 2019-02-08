@@ -5,7 +5,7 @@ This is my [personal website](https://markhary.github.io).
 
 ### Installation
 
-Push to git.
+Push to git.  Check it is up.
 
 ### Usage
 
