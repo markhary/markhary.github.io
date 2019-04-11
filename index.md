@@ -14,5 +14,5 @@ layout: page
 * 2019-02-13 [The Enterprise Software Sales Playbook for Startups](https://medium.com/@mark.hary/the-enterprise-software-sales-playbook-for-startups-584c1771ad5d)
 
 #### <a name="slideshare"></a>[presentations & speaking events](https://slideshare.net/markhary)
-* 2019-04-11 [Startups 101](https://www.slideshare.net/MarkHary/startups-101-137223753)
+* 2019-04-11 [Startups 101](https://www.slideshare.net/MarkHary/startups-101-140430114)
 * 2019-02-25 [Startup Leadership Program](https://www.slideshare.net/MarkHary/startup-leadership-program-silicon-valley-chapter-20190225-133428721)
