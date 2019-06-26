@@ -15,6 +15,9 @@ referencing my [profile](https://linkedin.com/in/markhary) or [cv]({{ BASE_PATH 
 
 
 [curriculum vitae]({{ BASE_PATH }}/assets/pdf/markhary_cv.pdf)<br/>
-[linkedin](https://linkedin.com/in/markhary)<br/>
 [github](https://github.com/markhary)<br/>
+[linkedin](https://linkedin.com/in/markhary)<br/>
 [medium](https://medium.com/@mark.hary)
+
+
+[theentrepreneurd.com](https://www.theentrepreneurd.com)

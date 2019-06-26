@@ -6,6 +6,8 @@ layout: page
 
 ---
 
+You can also visit me at <a name="theentrepreneurd"></a>[theentrepreneurd.com](https://www.theentrepreneurd.com)
+
 #### <a name="medium"></a>[medium publications](https://medium.com/@mark.hary)
 
 * 2019-03-24 [Transforming an Idea into an Asset](https://medium.com/@mark.hary/transforming-an-idea-into-an-asset-d2facd7e24f5)
