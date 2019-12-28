@@ -14,6 +14,9 @@ Push to git.  Check it is up.
 ### Installation
 [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
+But basically:
+``` bundle exec jekyll serve ```
+
 ### Contributing
 This is my personal website, please do not contribute.
 
