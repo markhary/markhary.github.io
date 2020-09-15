@@ -16,12 +16,12 @@
 title: Mark Hary
 email: mark.hary@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software developer, business person, and angel investor
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Business Development, Program Management, and Angel Investor
+baseurl: '' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hary_mark
-github_username:  markhary
-linkedin_username:  markhary
+github_username: markhary
+linkedin_username: markhary
 
 # Build settings
 markdown: kramdown
@@ -32,7 +32,6 @@ include: ['_pages']
 
 # Google Analytics
 google_analytics: UA-136770592-1
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
